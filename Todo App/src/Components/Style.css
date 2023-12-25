@@ -1,0 +1,56 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: linear-gradient(to right, #000000, rgb(110, 110, 110));
+    color: #cac6c0;
+}
+
+.table {
+    margin: auto;
+}
+
+.btn {
+    background: #cac6c0;
+    color: black;
+    font-weight: 600;
+    border: 1px solid transparent;
+}
+
+.btn:hover {
+    background-color: #ffca2c;
+    color: black;
+    border: 1px solid black;
+
+}
+
+.table .btn {
+    background-color: transparent;
+    color: whitesmoke;
+    border: none;
+}
+.table .btn:hover{
+    background-color: #ffca2c;
+    color: black;
+    border: none ;
+
+}
+
+input {
+    background: whitesmoke;
+    border: 3px solid #a16100;
+    border-radius: 4px;
+    padding: 8px;
+    margin: 5px;
+}
+
+.table {
+    border: none;
+}
+
+.crossed-line {
+    text-decoration: line-through;
+}
