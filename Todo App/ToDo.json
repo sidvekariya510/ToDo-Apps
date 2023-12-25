@@ -11,9 +11,33 @@
       "id": 2
     },
     {
-      "taskname": "Apple",
-      "completed": false,
+      "taskname": "Pineapple",
+      "completed": true,
       "id": 3
+    },
+    {
+      "taskname": "Banana",
+      "completed": true,
+      "id": 4
+    }
+  ],
+  "completedItems": [
+    {
+      "taskname": "",
+      "completed": true,
+      "id": 1
+    },
+    {
+      "taskname": "",
+      "completed": true,
+      "id": 2
+    }
+  ],
+  "activeItem": [
+    {
+      "taskname": "",
+      "completed": false,
+      "id": 1
     }
   ]
 }
