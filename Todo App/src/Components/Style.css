@@ -7,6 +7,8 @@
 body {
     background: linear-gradient(to right, #000000, rgb(110, 110, 110));
     color: #cac6c0;
+    height: 90vh;
+    width: 99%;
 }
 
 .table {
